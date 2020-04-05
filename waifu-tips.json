@@ -69,6 +69,9 @@
 		"selector": ".highlight, .gist",
 		"text": ["代码可以直接点击复制哟。", "GitHub！我是新手！", "PHP 是最好的语言！"]
 	}, {
+		"selector": ".container a[href^='http://www.beian.miit.gov.cn'], .nav-link .nav-text",
+		"text": ["我也是有户口的人哦，我的主人可是遵纪守法的好主人。"]
+	},{
 		"selector": ".container a[href^='http'], .nav-link .nav-text",
 		"text": ["要去看看 <span>{text}</span> 么？", "去 <span>{text}</span> 逛逛吧。", "到 <span>{text}</span> 看看吧。"]
 	}, {
