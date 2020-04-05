@@ -30,7 +30,7 @@
 		"selector": ".menu-item-about",
 		"text": ["你想知道我家主人是谁吗？", "这里有一些关于我家主人的秘密哦，要不要看看呢？", "发现主人出没地点！"]
 	}, {
-		"selector": ".tags icon",
+		"selector": ".menu-item-tags",
 		"text": ["点击就可以看文章的标签啦！", "点击来查看所有标签哦。", "快看看这里都有什么呢！"]
 	}, {
 		"selector": ".menu-item-categories",
