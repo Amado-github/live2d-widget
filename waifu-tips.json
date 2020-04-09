@@ -87,7 +87,7 @@
 		"selector": "#illustrating",
 		"text": ["点击来阅读全文哦。"]
 	}, {
-		"selector": "a[itemprop='discussionUrl']",
+		"selector": "a[href='#comment-container']",
 		"text": ["要去看看评论吗？"]
 	}, {
 		"selector": ".back-to-top",
