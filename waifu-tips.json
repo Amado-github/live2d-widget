@@ -60,7 +60,7 @@
 		"selector": ".links-of-author",
 		"text": ["这里是主人的常驻地址哦。", "这里有主人的联系方式！"]
 	}, {
-		"selector": "#qrcode",
+		"selector": "#qrcodebtn",
 		"text": ["手机扫一下就能继续看，很方便呢～", "扫一扫，打开新世界的大门！"]
 	}, {
 		"selector": ".fancybox img, img.medium-zoom-image",
